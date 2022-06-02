@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Vova:Vova@vova.cmypk.mongodb.net/Vova?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\3.14vo\\Desktop\\cloud\\server\\files"
+}

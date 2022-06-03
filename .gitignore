@@ -1,5 +1,6 @@
 server/node_modules
 .idea
 client/node_modules
+sync/node_modules
 server/files
 .gitignoregit branch -M main
